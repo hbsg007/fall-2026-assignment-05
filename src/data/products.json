@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Classic Diamond Kite",
+    "price": 24.99,
+    "category": "Single-Line Kites",
+    "description": "A traditional ripstop diamond with a bowed ribbon tail. Flies steady in 8–18 mph winds and packs down to the length of a pencil case.",
+    "imageUrl": "./images/classic-diamond-kite.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Swift Dual-Line Stunt Kite",
+    "price": 79.99,
+    "category": "Stunt Kites",
+    "description": "A responsive 5-foot sport kite for loops, dives and figure eights. Comes with two 80-foot lines and padded wrist straps.",
+    "imageUrl": "./images/swift-dual-line-stunt-kite.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sea Turtle Kite",
+    "price": 19.99,
+    "category": "Kids' Kites",
+    "description": "A friendly turtle with a wide body that launches easily from a standing start. Ready to fly on a handle with 100 feet of line.",
+    "imageUrl": "./images/sea-turtle-kite.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Braided Kite Line, 500 ft",
+    "price": 12.99,
+    "category": "Line & Reels",
+    "description": "50-lb test braided polyester line on a sturdy cardboard winder. The right strength for most single-line kites.",
+    "imageUrl": "./images/braided-kite-line.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spinning Windsock",
+    "price": 27.0,
+    "category": "Accessories",
+    "description": "A 4-foot spiral windsock with streamer tails. Fly it below your kite or hang it from the porch to read the wind at a glance.",
+    "imageUrl": "./images/spinning-windsock.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Featherlight Delta Kite",
+    "price": 39.99,
+    "category": "Single-Line Kites",
+    "description": "A 6-foot delta that lifts off in breezes as light as 4 mph. Our pick for calm summer evenings on the beach.",
+    "imageUrl": "./images/featherlight-delta-kite.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Breaker Quad-Line Kite",
+    "price": 189.0,
+    "category": "Stunt Kites",
+    "description": "Four lines let you hover, fly in reverse and park the kite mid-air. For flyers ready to move past dual-line.",
+    "imageUrl": "./images/breaker-quad-line-kite.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rainbow Sled Kite",
+    "price": 14.99,
+    "category": "Kids' Kites",
+    "description": "Two light rods and nothing to assemble. Unfold it, clip on the line and run.",
+    "imageUrl": "./images/rainbow-sled-kite.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hoop Winder Reel",
+    "price": 16.5,
+    "category": "Line & Reels",
+    "description": "A wide hoop reel that winds line in fast and keeps it from tangling. Holds up to 800 feet.",
+    "imageUrl": "./images/hoop-winder-reel.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ripstop Repair Kit",
+    "price": 9.99,
+    "category": "Accessories",
+    "description": "Self-adhesive ripstop patches, spare connectors and end caps in a zip pouch. Fixes most tears in minutes, right on the sand.",
+    "imageUrl": "./images/ripstop-repair-kit.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cellular Box Kite",
+    "price": 54.0,
+    "category": "Single-Line Kites",
+    "description": "A two-cell box kite with fiberglass spars. Climbs straight up and holds its spot in gusty wind.",
+    "imageUrl": "./images/cellular-box-kite.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ridge Parafoil",
+    "price": 119.0,
+    "category": "Stunt Kites",
+    "description": "A frameless dual-line foil that fills with air and pulls hard. With no spars to snap, it shrugs off crashes on the beach.",
+    "imageUrl": "./images/ridge-parafoil.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Jellyfish Kite",
+    "price": 22.5,
+    "category": "Kids' Kites",
+    "description": "A smiling jellyfish with eight streaming tentacles that dance in the wind. Folds small enough for a beach bag.",
+    "imageUrl": "./images/jellyfish-kite.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pro Stunt Line Set",
+    "price": 34.99,
+    "category": "Line & Reels",
+    "description": "A color-coded pair of 90-foot low-stretch lines with wrist straps. Gives dual-line kites sharp, precise turns.",
+    "imageUrl": "./images/pro-stunt-line-set.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Spiral Sand Anchor",
+    "price": 11.99,
+    "category": "Accessories",
+    "description": "A twist-in sand stake with a swivel clip. Park your kite in the sky while you stop for lunch.",
+    "imageUrl": "./images/spiral-sand-anchor.jpg"
+  }
+]
